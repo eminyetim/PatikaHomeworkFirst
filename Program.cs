@@ -8,7 +8,8 @@ namespace algoritma1Patika
         {
             Odevler od = new();
             //od.firstHomeWork();
-            od.secondHomework();
+            //od.secondHomework();
+            od.thirdHomework();
         }
     }
 
@@ -29,7 +30,7 @@ namespace algoritma1Patika
                 System.Console.WriteLine("Please enter the " + (i + 1) + ". index :");
                 arr[i] = int.Parse(Console.ReadLine());
             }
-            
+
             System.Console.WriteLine("** Result **");
             foreach (var item in arr)
             {
@@ -68,6 +69,32 @@ namespace algoritma1Patika
                     System.Console.WriteLine(item);
                 }
             }
+        }
+
+        public void thirdHomework()
+        {
+            int size = 0;
+            int[] arr;
+            
+            System.Console.WriteLine("Please enter the size of array :");
+            size = int.Parse(Console.ReadLine());
+            
+            arr = new int[size];
+
+            for (int i = 0; i < size; i++)
+            {
+                System.Console.WriteLine("Please enter the " + (i + 1) + ". index :");
+                arr[i] = int.Parse(Console.ReadLine());
+            }
+            
+            System.Console.WriteLine("** Result **");
+            Array.Reverse(arr);
+            foreach (var item in arr)
+            {
+                System.Console.WriteLine(item);
+            }
+
+
         }
 
     }
