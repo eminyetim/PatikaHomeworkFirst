@@ -7,9 +7,10 @@ namespace algoritma1Patika
         public static void Main(string[] args)
         {
             Odevler od = new();
-            //od.firstHomeWork();
-            //od.secondHomework();
-            od.thirdHomework();
+            //od.firstHomeWork(); //Cift olanlar yazilir.
+            //od.secondHomework(); // M'e esit ya da tam bolunenler
+            //od.thirdHomework(); // Tersini sıralar.
+            od.FourthHomework();  // Toplam harf ve kelime sayısı.
         }
     }
 
@@ -97,5 +98,43 @@ namespace algoritma1Patika
 
         }
 
+        public void FourthHomework()
+        {
+            string give_str = Convert.ToString(Console.ReadLine());
+            System.Console.WriteLine("** Result **");
+            System.Console.WriteLine("Word Count :" + give_str.wordCount());
+            System.Console.WriteLine("Letters Count :" + give_str.numbersOfLetters());
+             
+        }
+
+    }
+
+    public static class Extension
+    {
+        public static int wordCount(this string str)
+        {
+            int count = 0;
+            int i = 0;
+            while(i < str.Length)
+            {   
+                if(str[i] == ' ')
+                    count++;
+                i++;
+            }
+            return ++count;
+        }
+
+        public static int numbersOfLetters(this string str)
+        {
+            int counter = 0;
+            int i = 0;
+            while(i < str.Length)
+            {
+                if(str[i] != ' ')
+                    counter++;
+                i++;
+            }
+            return counter;
+        }
     }
 }
