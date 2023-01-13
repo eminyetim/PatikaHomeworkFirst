@@ -1,0 +1,15 @@
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\bin\Debug\net6.0\algoritma1Patika.exe
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\bin\Debug\net6.0\algoritma1Patika.deps.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\bin\Debug\net6.0\algoritma1Patika.runtimeconfig.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\bin\Debug\net6.0\algoritma1Patika.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\bin\Debug\net6.0\algoritma1Patika.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\obj\Debug\net6.0\algoritma1Patika.csproj.AssemblyReference.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\obj\Debug\net6.0\algoritma1Patika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\obj\Debug\net6.0\algoritma1Patika.AssemblyInfoInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\obj\Debug\net6.0\algoritma1Patika.AssemblyInfo.cs
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\obj\Debug\net6.0\algoritma1Patika.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\obj\Debug\net6.0\algoritma1Patika.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\obj\Debug\net6.0\refint\algoritma1Patika.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\obj\Debug\net6.0\algoritma1Patika.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\obj\Debug\net6.0\algoritma1Patika.genruntimeconfig.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\algoritma1Patika\obj\Debug\net6.0\ref\algoritma1Patika.dll
